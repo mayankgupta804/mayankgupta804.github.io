@@ -6,3 +6,9 @@ theme = 'ananke'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.giscus]
+  repo = "mayankgupta804/mayankgupta804.github.io" # Your repo, e.g. "username/repo"
+  repoId = "R_kgDOGng3xw" # Get this from https://giscus.app/
+  category = "General" 
+  categoryId = "DIC_kwDOGng3x84C0hn2" # Get this from https://giscus.app/
